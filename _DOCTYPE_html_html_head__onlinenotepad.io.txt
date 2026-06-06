@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Mewati Music Platform</title>
+</head>
+<body>
+    <h1>Mewati Music - जल्द आ रहा है!</h1>
+    <p>यहाँ Mewati गानों का अनोखा मंच बनेगा।</p>
+</body>
+</html>
